@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ruchi.
 <!--- - 👀 I’m interested in ... --->
-- 🌱 I’m currently learning how to use Github and eBPF.
+- 🌱 I’m currently learning how to use bcc and eBPF.
 <!--- - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... --->
 
